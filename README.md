@@ -24,3 +24,4 @@ To install 'requests' and 'prettytable' use:
  ```
 sudo pip3 install -r requirements.txt
 ```
+# Parsing
